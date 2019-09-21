@@ -1,5 +1,5 @@
 # Welcome to GitHub
-
+the changes are made to  emphasize the new learning technique for applying the GitHub
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
